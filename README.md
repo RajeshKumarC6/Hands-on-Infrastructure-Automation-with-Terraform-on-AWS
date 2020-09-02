@@ -54,3 +54,4 @@ This course has been tested on the following system configuration:
 
 * [Architecting for AWS: Best Practices, Patterns and Troubleshooting [Video]](https://www.packtpub.com/application-development/architecting-aws-best-practices-patterns-and-troubleshooting-video?utm_source=github&utm_medium=repository&utm_campaign=9781788472739)
 
+
